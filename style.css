@@ -1,0 +1,19 @@
+.searchbar{
+    text-align: center;
+    padding:10px;
+    margin:0 0px 300px 0px;
+    /* background: yellow; */
+    border-radius: 30px;
+}
+.searchinput{
+    padding:10px;
+    border-radius: 30px;
+    width: 550px;
+
+}
+.Glogo{
+    margin: 130px 0 10px 80px;
+}
+.red{
+    border:solid 2px red;
+}
